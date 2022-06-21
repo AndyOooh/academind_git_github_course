@@ -1,3 +1,3 @@
 # academind_git_github_course
-A repository for said course!!ååuuu
+A repository for said course!!ååu
 
